@@ -4,12 +4,12 @@
     {
 
         Console.Write("Introduce el primer número: ");
-        int primerNumero = Convert.ToInt32(Console.ReadLine());
+        int num1 = Convert.ToInt32(Console.ReadLine());
 
         Console.Write("Introduce el segundo número: ");
-        int segundoNumero = Convert.ToInt32(Console.ReadLine());
+        int num2 = Convert.ToInt32(Console.ReadLine());
 
-        double resultadoOperacion = CalculosMatematicos.Calcular(primerNumero, segundoNumero);
+        double resultadoOperacion = CalculosMatematicos.Calcular(num1, num2);
         Console.WriteLine("El resultado de la operación (a+b)*(a-b) es: {0}", resultadoOperacion);
     }
 }
