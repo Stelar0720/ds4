@@ -4,12 +4,12 @@
     {
 
         Console.Write("Introduce el lado largo del rectangulo: ");
-        double ladoLargo = Convert.ToDouble(Console.ReadLine());
+        double largo = Convert.ToDouble(Console.ReadLine());
 
         Console.Write("Introduce el lado corto del rectangulo: ");
-        double ladoCorto = Convert.ToDouble(Console.ReadLine());
+        double corto = Convert.ToDouble(Console.ReadLine());
 
-        double perimetroRectangulo = 2 * (ladoLargo + ladoCorto);
+        double perimetroRectangulo = 2 * (largo + corto);
         Console.WriteLine("El perimetro del rectangulo es: {0}", perimetroRectangulo);
     }
 }
