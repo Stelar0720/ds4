@@ -9,18 +9,16 @@ namespace Laboratorio4
     {
         static void Main(string[] args)
         {
-            int n, x;
+            int fac = 1, n;
             string linea;
-            Console.Write("Ingrese el valor de n: ");
+            Console.Write("Ingrese un numero entero: ");
             linea = Console.ReadLine();
             n = int.Parse(linea);
-            x = 1;
-            while (x <= n)
-            { 
-                Console.Write(x);
-                Console.Write(" , ");
-                x = x + 1;
+            for (int i = 1; i <= n; i++)
+            {
+                fac = fac * i;
             }
+            Console.Write("la factorial es: " + fac);
             Console.ReadKey();
         }
     }
