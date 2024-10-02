@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6110E547-88CC-4EF6-BA88-B6E36D0F1F38}|..\\Laboratorio21\\Laboratorio21.csproj|c:\\users\\jackc\\source\\repos\\ds4\\laboratorio21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C979BC4-4F7D-4128-9DCE-B030DD3CB10E}|Laboratorio 2.csproj|c:\\users\\jackc\\source\\repos\\ds4\\laboratorio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C979BC4-4F7D-4128-9DCE-B030DD3CB10E}|Laboratorio 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio21\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Laboratorio21\\Program.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio21\\Program.cs",
+              "RelativeToolTip": "..\\Laboratorio21\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAwwAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T00:33:38.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio 2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio 2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:57:41.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

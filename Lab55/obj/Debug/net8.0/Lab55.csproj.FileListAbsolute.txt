@@ -1,0 +1,15 @@
+C:\Users\jackc\source\repos\ds4\Lab55\obj\Debug\net8.0\Lab55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackc\source\repos\ds4\Lab55\obj\Debug\net8.0\Lab55.AssemblyInfoInputs.cache
+C:\Users\jackc\source\repos\ds4\Lab55\obj\Debug\net8.0\Lab55.AssemblyInfo.cs
+C:\Users\jackc\source\repos\ds4\Lab55\obj\Debug\net8.0\Lab55.csproj.CoreCompileInputs.cache
+C:\Users\jackc\source\repos\ds4\Lab55\obj\Debug\net8.0\Lab55.sourcelink.json
+C:\Users\jackc\source\repos\ds4\Lab55\bin\Debug\net8.0\Lab55.exe
+C:\Users\jackc\source\repos\ds4\Lab55\bin\Debug\net8.0\Lab55.deps.json
+C:\Users\jackc\source\repos\ds4\Lab55\bin\Debug\net8.0\Lab55.runtimeconfig.json
+C:\Users\jackc\source\repos\ds4\Lab55\bin\Debug\net8.0\Lab55.dll
+C:\Users\jackc\source\repos\ds4\Lab55\bin\Debug\net8.0\Lab55.pdb
+C:\Users\jackc\source\repos\ds4\Lab55\obj\Debug\net8.0\Lab55.dll
+C:\Users\jackc\source\repos\ds4\Lab55\obj\Debug\net8.0\refint\Lab55.dll
+C:\Users\jackc\source\repos\ds4\Lab55\obj\Debug\net8.0\Lab55.pdb
+C:\Users\jackc\source\repos\ds4\Lab55\obj\Debug\net8.0\Lab55.genruntimeconfig.cache
+C:\Users\jackc\source\repos\ds4\Lab55\obj\Debug\net8.0\ref\Lab55.dll

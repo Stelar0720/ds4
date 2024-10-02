@@ -1,0 +1,15 @@
+C:\Users\jackc\source\repos\ds4\lab81\obj\Debug\net8.0\lab81.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackc\source\repos\ds4\lab81\obj\Debug\net8.0\lab81.AssemblyInfoInputs.cache
+C:\Users\jackc\source\repos\ds4\lab81\obj\Debug\net8.0\lab81.AssemblyInfo.cs
+C:\Users\jackc\source\repos\ds4\lab81\obj\Debug\net8.0\lab81.csproj.CoreCompileInputs.cache
+C:\Users\jackc\source\repos\ds4\lab81\obj\Debug\net8.0\lab81.sourcelink.json
+C:\Users\jackc\source\repos\ds4\lab81\bin\Debug\net8.0\lab81.exe
+C:\Users\jackc\source\repos\ds4\lab81\bin\Debug\net8.0\lab81.deps.json
+C:\Users\jackc\source\repos\ds4\lab81\bin\Debug\net8.0\lab81.runtimeconfig.json
+C:\Users\jackc\source\repos\ds4\lab81\bin\Debug\net8.0\lab81.dll
+C:\Users\jackc\source\repos\ds4\lab81\bin\Debug\net8.0\lab81.pdb
+C:\Users\jackc\source\repos\ds4\lab81\obj\Debug\net8.0\lab81.dll
+C:\Users\jackc\source\repos\ds4\lab81\obj\Debug\net8.0\refint\lab81.dll
+C:\Users\jackc\source\repos\ds4\lab81\obj\Debug\net8.0\lab81.pdb
+C:\Users\jackc\source\repos\ds4\lab81\obj\Debug\net8.0\lab81.genruntimeconfig.cache
+C:\Users\jackc\source\repos\ds4\lab81\obj\Debug\net8.0\ref\lab81.dll

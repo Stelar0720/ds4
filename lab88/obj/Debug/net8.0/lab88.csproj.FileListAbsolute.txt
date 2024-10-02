@@ -1,0 +1,15 @@
+C:\Users\jackc\source\repos\ds4\lab88\bin\Debug\net8.0\lab88.exe
+C:\Users\jackc\source\repos\ds4\lab88\bin\Debug\net8.0\lab88.deps.json
+C:\Users\jackc\source\repos\ds4\lab88\bin\Debug\net8.0\lab88.runtimeconfig.json
+C:\Users\jackc\source\repos\ds4\lab88\bin\Debug\net8.0\lab88.dll
+C:\Users\jackc\source\repos\ds4\lab88\bin\Debug\net8.0\lab88.pdb
+C:\Users\jackc\source\repos\ds4\lab88\obj\Debug\net8.0\lab88.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackc\source\repos\ds4\lab88\obj\Debug\net8.0\lab88.AssemblyInfoInputs.cache
+C:\Users\jackc\source\repos\ds4\lab88\obj\Debug\net8.0\lab88.AssemblyInfo.cs
+C:\Users\jackc\source\repos\ds4\lab88\obj\Debug\net8.0\lab88.csproj.CoreCompileInputs.cache
+C:\Users\jackc\source\repos\ds4\lab88\obj\Debug\net8.0\lab88.sourcelink.json
+C:\Users\jackc\source\repos\ds4\lab88\obj\Debug\net8.0\lab88.dll
+C:\Users\jackc\source\repos\ds4\lab88\obj\Debug\net8.0\refint\lab88.dll
+C:\Users\jackc\source\repos\ds4\lab88\obj\Debug\net8.0\lab88.pdb
+C:\Users\jackc\source\repos\ds4\lab88\obj\Debug\net8.0\lab88.genruntimeconfig.cache
+C:\Users\jackc\source\repos\ds4\lab88\obj\Debug\net8.0\ref\lab88.dll

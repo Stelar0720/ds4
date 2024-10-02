@@ -1,0 +1,15 @@
+C:\Users\jackc\source\repos\ds4\Lab71\obj\Debug\net8.0\Lab71.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackc\source\repos\ds4\Lab71\obj\Debug\net8.0\Lab71.AssemblyInfoInputs.cache
+C:\Users\jackc\source\repos\ds4\Lab71\obj\Debug\net8.0\Lab71.AssemblyInfo.cs
+C:\Users\jackc\source\repos\ds4\Lab71\obj\Debug\net8.0\Lab71.csproj.CoreCompileInputs.cache
+C:\Users\jackc\source\repos\ds4\Lab71\obj\Debug\net8.0\Lab71.sourcelink.json
+C:\Users\jackc\source\repos\ds4\Lab71\bin\Debug\net8.0\Lab71.exe
+C:\Users\jackc\source\repos\ds4\Lab71\bin\Debug\net8.0\Lab71.deps.json
+C:\Users\jackc\source\repos\ds4\Lab71\bin\Debug\net8.0\Lab71.runtimeconfig.json
+C:\Users\jackc\source\repos\ds4\Lab71\bin\Debug\net8.0\Lab71.dll
+C:\Users\jackc\source\repos\ds4\Lab71\bin\Debug\net8.0\Lab71.pdb
+C:\Users\jackc\source\repos\ds4\Lab71\obj\Debug\net8.0\Lab71.dll
+C:\Users\jackc\source\repos\ds4\Lab71\obj\Debug\net8.0\refint\Lab71.dll
+C:\Users\jackc\source\repos\ds4\Lab71\obj\Debug\net8.0\Lab71.pdb
+C:\Users\jackc\source\repos\ds4\Lab71\obj\Debug\net8.0\Lab71.genruntimeconfig.cache
+C:\Users\jackc\source\repos\ds4\Lab71\obj\Debug\net8.0\ref\Lab71.dll

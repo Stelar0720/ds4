@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{442BC627-56BB-4EF1-9019-B6F3F773E4F9}|..\\lab89\\lab89.csproj|c:\\users\\jackc\\source\\repos\\ds4\\lab89\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE225B58-43C5-4625-8BEE-FEB3702C046E}|..\\lab88\\lab88.csproj|c:\\users\\jackc\\source\\repos\\ds4\\lab88\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB13628-F691-43C0-B66A-786F54EE0A03}|..\\lab87\\lab87.csproj|c:\\users\\jackc\\source\\repos\\ds4\\lab87\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8F1556-B6A7-4BC9-9D28-5551612A99CA}|..\\lab86\\lab86.csproj|c:\\users\\jackc\\source\\repos\\ds4\\lab86\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45258F4-F4C8-45A5-8FAE-492BE9165572}|..\\lab85\\lab85.csproj|c:\\users\\jackc\\source\\repos\\ds4\\lab85\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25A3AAC-1C32-4BFB-B44C-8F1ED24AE632}|..\\lab84\\lab84.csproj|c:\\users\\jackc\\source\\repos\\ds4\\lab84\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A4FD72-9D85-45F4-BFB0-C1A192BE8E6E}|..\\lab83\\lab83.csproj|c:\\users\\jackc\\source\\repos\\ds4\\lab83\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22DBE150-DD1D-4FE1-9697-E00A0661B841}|..\\lab82\\lab82.csproj|c:\\users\\jackc\\source\\repos\\ds4\\lab82\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36E292D-7206-43A6-B065-38FEE486D010}|..\\lab81\\lab81.csproj|c:\\users\\jackc\\source\\repos\\ds4\\lab81\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36E292D-7206-43A6-B065-38FEE486D010}|..\\lab81\\lab81.csproj|c:\\users\\jackc\\source\\repos\\ds4\\lab81\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD5347E-B6A4-4D2B-8E60-50981AAF1DDE}|Laboratorio8.csproj|c:\\users\\jackc\\source\\repos\\ds4\\laboratorio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD5347E-B6A4-4D2B-8E60-50981AAF1DDE}|Laboratorio8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36E292D-7206-43A6-B065-38FEE486D010}|..\\lab81\\lab81.csproj|c:\\users\\jackc\\source\\repos\\ds4\\lab81\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\lab89\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lab89\\Program.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\lab89\\Program.cs",
+              "RelativeToolTip": "..\\lab89\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:18:53.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\lab88\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lab88\\Program.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\lab88\\Program.cs",
+              "RelativeToolTip": "..\\lab88\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:17:05.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\lab87\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lab87\\Program.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\lab87\\Program.cs",
+              "RelativeToolTip": "..\\lab87\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:13:33.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\lab86\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lab86\\Program.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\lab86\\Program.cs",
+              "RelativeToolTip": "..\\lab86\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:08:02.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\lab85\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lab85\\Program.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\lab85\\Program.cs",
+              "RelativeToolTip": "..\\lab85\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:02:23.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\lab84\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lab84\\Program.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\lab84\\Program.cs",
+              "RelativeToolTip": "..\\lab84\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:00:35.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\lab83\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lab83\\Program.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\lab83\\Program.cs",
+              "RelativeToolTip": "..\\lab83\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:59:04.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\lab82\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lab82\\Program.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\lab82\\Program.cs",
+              "RelativeToolTip": "..\\lab82\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:58:02.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Trabajador.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\lab81\\Trabajador.cs",
+              "RelativeDocumentMoniker": "..\\lab81\\Trabajador.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\lab81\\Trabajador.cs",
+              "RelativeToolTip": "..\\lab81\\Trabajador.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:42:28.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\lab81\\Persona.cs",
+              "RelativeDocumentMoniker": "..\\lab81\\Persona.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\lab81\\Persona.cs",
+              "RelativeToolTip": "..\\lab81\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:41:24.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\lab81\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lab81\\Program.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\lab81\\Program.cs",
+              "RelativeToolTip": "..\\lab81\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:40:00.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:39:26.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

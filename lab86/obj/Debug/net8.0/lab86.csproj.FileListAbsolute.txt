@@ -1,0 +1,15 @@
+C:\Users\jackc\source\repos\ds4\lab86\obj\Debug\net8.0\lab86.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackc\source\repos\ds4\lab86\obj\Debug\net8.0\lab86.AssemblyInfoInputs.cache
+C:\Users\jackc\source\repos\ds4\lab86\obj\Debug\net8.0\lab86.AssemblyInfo.cs
+C:\Users\jackc\source\repos\ds4\lab86\obj\Debug\net8.0\lab86.csproj.CoreCompileInputs.cache
+C:\Users\jackc\source\repos\ds4\lab86\obj\Debug\net8.0\lab86.sourcelink.json
+C:\Users\jackc\source\repos\ds4\lab86\bin\Debug\net8.0\lab86.exe
+C:\Users\jackc\source\repos\ds4\lab86\bin\Debug\net8.0\lab86.deps.json
+C:\Users\jackc\source\repos\ds4\lab86\bin\Debug\net8.0\lab86.runtimeconfig.json
+C:\Users\jackc\source\repos\ds4\lab86\bin\Debug\net8.0\lab86.dll
+C:\Users\jackc\source\repos\ds4\lab86\bin\Debug\net8.0\lab86.pdb
+C:\Users\jackc\source\repos\ds4\lab86\obj\Debug\net8.0\lab86.dll
+C:\Users\jackc\source\repos\ds4\lab86\obj\Debug\net8.0\refint\lab86.dll
+C:\Users\jackc\source\repos\ds4\lab86\obj\Debug\net8.0\lab86.pdb
+C:\Users\jackc\source\repos\ds4\lab86\obj\Debug\net8.0\lab86.genruntimeconfig.cache
+C:\Users\jackc\source\repos\ds4\lab86\obj\Debug\net8.0\ref\lab86.dll

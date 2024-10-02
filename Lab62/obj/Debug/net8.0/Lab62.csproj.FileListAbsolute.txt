@@ -1,0 +1,15 @@
+C:\Users\jackc\source\repos\ds4\Lab62\bin\Debug\net8.0\Lab62.exe
+C:\Users\jackc\source\repos\ds4\Lab62\bin\Debug\net8.0\Lab62.deps.json
+C:\Users\jackc\source\repos\ds4\Lab62\bin\Debug\net8.0\Lab62.runtimeconfig.json
+C:\Users\jackc\source\repos\ds4\Lab62\bin\Debug\net8.0\Lab62.dll
+C:\Users\jackc\source\repos\ds4\Lab62\bin\Debug\net8.0\Lab62.pdb
+C:\Users\jackc\source\repos\ds4\Lab62\obj\Debug\net8.0\Lab62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackc\source\repos\ds4\Lab62\obj\Debug\net8.0\Lab62.AssemblyInfoInputs.cache
+C:\Users\jackc\source\repos\ds4\Lab62\obj\Debug\net8.0\Lab62.AssemblyInfo.cs
+C:\Users\jackc\source\repos\ds4\Lab62\obj\Debug\net8.0\Lab62.csproj.CoreCompileInputs.cache
+C:\Users\jackc\source\repos\ds4\Lab62\obj\Debug\net8.0\Lab62.sourcelink.json
+C:\Users\jackc\source\repos\ds4\Lab62\obj\Debug\net8.0\Lab62.dll
+C:\Users\jackc\source\repos\ds4\Lab62\obj\Debug\net8.0\refint\Lab62.dll
+C:\Users\jackc\source\repos\ds4\Lab62\obj\Debug\net8.0\Lab62.pdb
+C:\Users\jackc\source\repos\ds4\Lab62\obj\Debug\net8.0\Lab62.genruntimeconfig.cache
+C:\Users\jackc\source\repos\ds4\Lab62\obj\Debug\net8.0\ref\Lab62.dll

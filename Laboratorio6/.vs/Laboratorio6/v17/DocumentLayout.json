@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62E66A0F-D75F-4CA5-9F83-6B416BADE0FF}|..\\Lab64\\Lab64.csproj|c:\\users\\jackc\\source\\repos\\ds4\\lab64\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F228157-454B-45D9-AA8D-F0D7D05B85B3}|..\\Lab63\\Lab63.csproj|c:\\users\\jackc\\source\\repos\\ds4\\lab63\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ACE75D-138D-48E7-A86E-162E38C58393}|..\\Lab61\\Lab61.csproj|c:\\users\\jackc\\source\\repos\\ds4\\lab61\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343FBFD3-4486-4876-8DBF-D321970747C9}|..\\Lab62\\Lab62.csproj|c:\\users\\jackc\\source\\repos\\ds4\\lab62\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561561D9-129D-46C9-AFB3-15DDE5DC5BD2}|Laboratorio6.csproj|c:\\users\\jackc\\source\\repos\\ds4\\laboratorio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561561D9-129D-46C9-AFB3-15DDE5DC5BD2}|Laboratorio6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\Lab64\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab64\\Program.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\Lab64\\Program.cs",
+              "RelativeToolTip": "..\\Lab64\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:28:42.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\Lab63\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab63\\Program.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\Lab63\\Program.cs",
+              "RelativeToolTip": "..\\Lab63\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:26:38.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\Lab62\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab62\\Program.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\Lab62\\Program.cs",
+              "RelativeToolTip": "..\\Lab62\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:24:25.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\Lab61\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab61\\Program.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\Lab61\\Program.cs",
+              "RelativeToolTip": "..\\Lab61\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:22:20.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:21:55.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
