@@ -1,0 +1,15 @@
+C:\Users\jackc\source\repos\ds4\lab101\bin\Debug\net8.0\lab101.exe
+C:\Users\jackc\source\repos\ds4\lab101\bin\Debug\net8.0\lab101.deps.json
+C:\Users\jackc\source\repos\ds4\lab101\bin\Debug\net8.0\lab101.runtimeconfig.json
+C:\Users\jackc\source\repos\ds4\lab101\bin\Debug\net8.0\lab101.dll
+C:\Users\jackc\source\repos\ds4\lab101\bin\Debug\net8.0\lab101.pdb
+C:\Users\jackc\source\repos\ds4\lab101\obj\Debug\net8.0\lab101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackc\source\repos\ds4\lab101\obj\Debug\net8.0\lab101.AssemblyInfoInputs.cache
+C:\Users\jackc\source\repos\ds4\lab101\obj\Debug\net8.0\lab101.AssemblyInfo.vb
+C:\Users\jackc\source\repos\ds4\lab101\obj\Debug\net8.0\lab101.vbproj.CoreCompileInputs.cache
+C:\Users\jackc\source\repos\ds4\lab101\obj\Debug\net8.0\lab101.sourcelink.json
+C:\Users\jackc\source\repos\ds4\lab101\obj\Debug\net8.0\lab101.dll
+C:\Users\jackc\source\repos\ds4\lab101\obj\Debug\net8.0\refint\lab101.dll
+C:\Users\jackc\source\repos\ds4\lab101\obj\Debug\net8.0\lab101.pdb
+C:\Users\jackc\source\repos\ds4\lab101\obj\Debug\net8.0\lab101.genruntimeconfig.cache
+C:\Users\jackc\source\repos\ds4\lab101\obj\Debug\net8.0\ref\lab101.dll

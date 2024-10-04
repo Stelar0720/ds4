@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF22414A-DC0C-4676-A331-3D5080C7AF44}|..\\lab104\\lab104.vbproj|c:\\users\\jackc\\source\\repos\\ds4\\lab104\\perro.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF22414A-DC0C-4676-A331-3D5080C7AF44}|..\\lab104\\lab104.vbproj|c:\\users\\jackc\\source\\repos\\ds4\\lab104\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D712B71-4C46-4E6C-9B00-244A1AB0CAFA}|..\\lab103\\lab103.vbproj|c:\\users\\jackc\\source\\repos\\ds4\\lab103\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BBD8FC-2ABD-4845-AF5B-ECC9115F07F1}|..\\lab102\\lab102.vbproj|c:\\users\\jackc\\source\\repos\\ds4\\lab102\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374F496-8925-4271-89A2-88FB8D41F339}|..\\lab101\\lab101.vbproj|c:\\users\\jackc\\source\\repos\\ds4\\lab101\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E961784-DB6A-464C-ABE9-2D3610B5B23E}|Laboratorio10.vbproj|c:\\users\\jackc\\source\\repos\\ds4\\laboratorio10\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E961784-DB6A-464C-ABE9-2D3610B5B23E}|Laboratorio10.vbproj|solutionrelative:program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Perro.vb",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\lab104\\Perro.vb",
+              "RelativeDocumentMoniker": "..\\lab104\\Perro.vb",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\lab104\\Perro.vb",
+              "RelativeToolTip": "..\\lab104\\Perro.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-04T02:14:19.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\lab104\\Program.vb",
+              "RelativeDocumentMoniker": "..\\lab104\\Program.vb",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\lab104\\Program.vb",
+              "RelativeToolTip": "..\\lab104\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-04T02:12:35.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\lab103\\Program.vb",
+              "RelativeDocumentMoniker": "..\\lab103\\Program.vb",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\lab103\\Program.vb",
+              "RelativeToolTip": "..\\lab103\\Program.vb",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-04T02:11:46.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\lab102\\Program.vb",
+              "RelativeDocumentMoniker": "..\\lab102\\Program.vb",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\lab102\\Program.vb",
+              "RelativeToolTip": "..\\lab102\\Program.vb",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-04T02:10:08.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\lab101\\Program.vb",
+              "RelativeDocumentMoniker": "..\\lab101\\Program.vb",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\lab101\\Program.vb",
+              "RelativeToolTip": "..\\lab101\\Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-04T02:09:01.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio10\\Program.vb",
+              "RelativeDocumentMoniker": "Program.vb",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio10\\Program.vb",
+              "RelativeToolTip": "Program.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-04T02:08:16.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
