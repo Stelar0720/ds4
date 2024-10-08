@@ -1,0 +1,17 @@
+C:\Users\jackc\source\repos\ds4\lab121\bin\Debug\net8.0-windows\lab121.exe
+C:\Users\jackc\source\repos\ds4\lab121\bin\Debug\net8.0-windows\lab121.deps.json
+C:\Users\jackc\source\repos\ds4\lab121\bin\Debug\net8.0-windows\lab121.runtimeconfig.json
+C:\Users\jackc\source\repos\ds4\lab121\bin\Debug\net8.0-windows\lab121.dll
+C:\Users\jackc\source\repos\ds4\lab121\bin\Debug\net8.0-windows\lab121.pdb
+C:\Users\jackc\source\repos\ds4\lab121\obj\Debug\net8.0-windows\lab121.Form1.resources
+C:\Users\jackc\source\repos\ds4\lab121\obj\Debug\net8.0-windows\lab121.csproj.GenerateResource.cache
+C:\Users\jackc\source\repos\ds4\lab121\obj\Debug\net8.0-windows\lab121.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackc\source\repos\ds4\lab121\obj\Debug\net8.0-windows\lab121.AssemblyInfoInputs.cache
+C:\Users\jackc\source\repos\ds4\lab121\obj\Debug\net8.0-windows\lab121.AssemblyInfo.cs
+C:\Users\jackc\source\repos\ds4\lab121\obj\Debug\net8.0-windows\lab121.csproj.CoreCompileInputs.cache
+C:\Users\jackc\source\repos\ds4\lab121\obj\Debug\net8.0-windows\lab121.sourcelink.json
+C:\Users\jackc\source\repos\ds4\lab121\obj\Debug\net8.0-windows\lab121.dll
+C:\Users\jackc\source\repos\ds4\lab121\obj\Debug\net8.0-windows\refint\lab121.dll
+C:\Users\jackc\source\repos\ds4\lab121\obj\Debug\net8.0-windows\lab121.pdb
+C:\Users\jackc\source\repos\ds4\lab121\obj\Debug\net8.0-windows\lab121.genruntimeconfig.cache
+C:\Users\jackc\source\repos\ds4\lab121\obj\Debug\net8.0-windows\ref\lab121.dll

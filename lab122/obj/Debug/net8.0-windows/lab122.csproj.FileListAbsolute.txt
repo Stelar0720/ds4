@@ -1,0 +1,17 @@
+C:\Users\jackc\source\repos\ds4\lab122\obj\Debug\net8.0-windows\lab122.Form1.resources
+C:\Users\jackc\source\repos\ds4\lab122\obj\Debug\net8.0-windows\lab122.csproj.GenerateResource.cache
+C:\Users\jackc\source\repos\ds4\lab122\obj\Debug\net8.0-windows\lab122.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackc\source\repos\ds4\lab122\obj\Debug\net8.0-windows\lab122.AssemblyInfoInputs.cache
+C:\Users\jackc\source\repos\ds4\lab122\obj\Debug\net8.0-windows\lab122.AssemblyInfo.cs
+C:\Users\jackc\source\repos\ds4\lab122\obj\Debug\net8.0-windows\lab122.csproj.CoreCompileInputs.cache
+C:\Users\jackc\source\repos\ds4\lab122\obj\Debug\net8.0-windows\lab122.sourcelink.json
+C:\Users\jackc\source\repos\ds4\lab122\bin\Debug\net8.0-windows\lab122.exe
+C:\Users\jackc\source\repos\ds4\lab122\bin\Debug\net8.0-windows\lab122.deps.json
+C:\Users\jackc\source\repos\ds4\lab122\bin\Debug\net8.0-windows\lab122.runtimeconfig.json
+C:\Users\jackc\source\repos\ds4\lab122\bin\Debug\net8.0-windows\lab122.dll
+C:\Users\jackc\source\repos\ds4\lab122\bin\Debug\net8.0-windows\lab122.pdb
+C:\Users\jackc\source\repos\ds4\lab122\obj\Debug\net8.0-windows\lab122.dll
+C:\Users\jackc\source\repos\ds4\lab122\obj\Debug\net8.0-windows\refint\lab122.dll
+C:\Users\jackc\source\repos\ds4\lab122\obj\Debug\net8.0-windows\lab122.pdb
+C:\Users\jackc\source\repos\ds4\lab122\obj\Debug\net8.0-windows\lab122.genruntimeconfig.cache
+C:\Users\jackc\source\repos\ds4\lab122\obj\Debug\net8.0-windows\ref\lab122.dll
