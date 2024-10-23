@@ -1,0 +1,17 @@
+C:\Users\jackc\source\repos\ds4\Parcial2\bin\Debug\net8.0-windows\Parcial2.exe
+C:\Users\jackc\source\repos\ds4\Parcial2\bin\Debug\net8.0-windows\Parcial2.deps.json
+C:\Users\jackc\source\repos\ds4\Parcial2\bin\Debug\net8.0-windows\Parcial2.runtimeconfig.json
+C:\Users\jackc\source\repos\ds4\Parcial2\bin\Debug\net8.0-windows\Parcial2.dll
+C:\Users\jackc\source\repos\ds4\Parcial2\bin\Debug\net8.0-windows\Parcial2.pdb
+C:\Users\jackc\source\repos\ds4\Parcial2\obj\Debug\net8.0-windows\Parcial2.Form1.resources
+C:\Users\jackc\source\repos\ds4\Parcial2\obj\Debug\net8.0-windows\Parcial2.csproj.GenerateResource.cache
+C:\Users\jackc\source\repos\ds4\Parcial2\obj\Debug\net8.0-windows\Parcial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackc\source\repos\ds4\Parcial2\obj\Debug\net8.0-windows\Parcial2.AssemblyInfoInputs.cache
+C:\Users\jackc\source\repos\ds4\Parcial2\obj\Debug\net8.0-windows\Parcial2.AssemblyInfo.cs
+C:\Users\jackc\source\repos\ds4\Parcial2\obj\Debug\net8.0-windows\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\jackc\source\repos\ds4\Parcial2\obj\Debug\net8.0-windows\Parcial2.sourcelink.json
+C:\Users\jackc\source\repos\ds4\Parcial2\obj\Debug\net8.0-windows\Parcial2.dll
+C:\Users\jackc\source\repos\ds4\Parcial2\obj\Debug\net8.0-windows\refint\Parcial2.dll
+C:\Users\jackc\source\repos\ds4\Parcial2\obj\Debug\net8.0-windows\Parcial2.pdb
+C:\Users\jackc\source\repos\ds4\Parcial2\obj\Debug\net8.0-windows\Parcial2.genruntimeconfig.cache
+C:\Users\jackc\source\repos\ds4\Parcial2\obj\Debug\net8.0-windows\ref\Parcial2.dll
