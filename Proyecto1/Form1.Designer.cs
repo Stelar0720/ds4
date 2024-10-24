@@ -155,7 +155,10 @@
             btn_equals.TabIndex = 17;
             btn_equals.Text = "=";
             btn_equals.UseVisualStyleBackColor = true;
-            btn_equals.Click += btn_equals_Click;
+            btn_equals.Click += new System.EventHandler(this.btn_equals_Click);
+
+            ;
+
             // 
             // btn_delete
             // 
@@ -307,6 +310,18 @@
             btn_root.UseVisualStyleBackColor = true;
             btn_root.Click += btn_root_Click;
             // 
+            // Botón para mostrar los cálculos
+            btn_showCalculations = new Button();
+            btn_showCalculations.Location = new Point(213, 400);
+            btn_showCalculations.Name = "btn_showCalculations";
+            btn_showCalculations.Size = new Size(150, 29);
+            btn_showCalculations.TabIndex = 34;
+            btn_showCalculations.Text = "Mostrar Cálculos";
+            btn_showCalculations.UseVisualStyleBackColor = true;
+            btn_showCalculations.Click += new System.EventHandler(this.btn_showCalculations_Click);
+
+            
+
             // label1
             // 
             label1.AutoSize = true;
@@ -378,6 +393,7 @@
             Controls.Add(btn7);
             Controls.Add(txt_result);
             Controls.Add(txt_operation);
+            Controls.Add(btn_showCalculations);
             Name = "Form1";
             Text = "Calculadora";
             ResumeLayout(false);
@@ -388,6 +404,7 @@
 
         private TextBox txt_operation;
         private TextBox txt_result;
+        private Button btn_showCalculations;
         private Button btn7;
         private Button btn8;
         private Button btn_plus;

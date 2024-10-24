@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jackc\\source\\repos\\Proyecto1\\Proyecto1.csproj": {}
+    "C:\\Users\\DELL-LAPTOP\\Desktop\\Proyecto1\\Proyecto1\\Proyecto1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jackc\\source\\repos\\Proyecto1\\Proyecto1.csproj": {
+    "C:\\Users\\DELL-LAPTOP\\Desktop\\Proyecto1\\Proyecto1\\Proyecto1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jackc\\source\\repos\\Proyecto1\\Proyecto1.csproj",
+        "projectUniqueName": "C:\\Users\\DELL-LAPTOP\\Desktop\\Proyecto1\\Proyecto1\\Proyecto1.csproj",
         "projectName": "Proyecto1",
-        "projectPath": "C:\\Users\\jackc\\source\\repos\\Proyecto1\\Proyecto1.csproj",
-        "packagesPath": "C:\\Users\\jackc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jackc\\source\\repos\\Proyecto1\\obj\\",
+        "projectPath": "C:\\Users\\DELL-LAPTOP\\Desktop\\Proyecto1\\Proyecto1\\Proyecto1.csproj",
+        "packagesPath": "C:\\Users\\DELL-LAPTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL-LAPTOP\\Desktop\\Proyecto1\\Proyecto1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jackc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL-LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,6 +49,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,7 +74,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

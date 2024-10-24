@@ -1,5 +1,8 @@
 ﻿using System;
 using System.Windows.Forms;
+using System.Data.SqlClient;
+using System.Text;
+
 
 namespace Proyecto1
 {
@@ -10,6 +13,9 @@ namespace Proyecto1
         private string operation = ""; // Guarda el operador (+, -, /, ^, etc.)
         private bool isRootOperation = false; // Marca si la última operación es raíz
         private string currentOperation = ""; // Guarda la operación completa como texto
+        private string connectionString = "Server=DESKTOP-V42SQS6\\SQLEXPRESS;Database=CalculadoraDB;Integrated Security=True;";
+
+
 
         public Form1()
         {
@@ -50,15 +56,30 @@ namespace Proyecto1
             {
                 // Usa DataTable para evaluar la expresión matemática completa
                 var dt = new System.Data.DataTable();
-                var result = dt.Compute(currentOperation, "");
-                txt_result.Text = result.ToString(); // Muestra el resultado
-                currentOperation = ""; // Reinicia la operación completa
+                var result = dt.Compute(currentOperation, "").ToString();
+
+                // Verifica que tanto la operación como el resultado no sean nulos o vacíos
+                if (!string.IsNullOrWhiteSpace(currentOperation) && !string.IsNullOrWhiteSpace(result))
+                {
+                    txt_result.Text = result; // Muestra el resultado
+
+                    // Guarda el cálculo en la base de datos
+                    GuardarCalculoEnBD(currentOperation, result);
+
+                    currentOperation = ""; // Reinicia la operación completa
+                }
+                else
+                {
+                    txt_result.Text = "Error"; // Indica un error si la operación o el resultado son inválidos
+                }
             }
             catch (Exception ex)
             {
                 txt_result.Text = "Error"; // Muestra un error si la expresión es inválida
             }
         }
+
+
 
         // Método para obtener el valor actual
         private double GetCurrentValue()
@@ -222,6 +243,56 @@ namespace Proyecto1
             currentOperation = ""; // Limpia la operación completa
             isRootOperation = false; // Reinicia el indicador de operación de raíz
         }
+        private void GuardarCalculoEnBD(string operacion, string resultado)
+        {
+            string query = "INSERT INTO HistorialCalculos (Operacion, Resultado) VALUES (@Operacion, @Resultado)";
+
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            using (SqlCommand command = new SqlCommand(query, connection))
+            {
+                command.Parameters.AddWithValue("@Operacion", operacion);
+                command.Parameters.AddWithValue("@Resultado", resultado);
+
+                connection.Open();
+                command.ExecuteNonQuery();
+                connection.Close();
+            }
+        }
+        private void btn_showCalculations_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                // Consulta para obtener todos los cálculos de la base de datos
+                string query = "SELECT * FROM HistorialCalculos";
+                using (SqlConnection connection = new SqlConnection(connectionString))
+                using (SqlCommand command = new SqlCommand(query, connection))
+                {
+                    connection.Open();
+                    SqlDataReader reader = command.ExecuteReader();
+
+                    // Crear una cadena para mostrar los cálculos
+                    StringBuilder calculations = new StringBuilder();
+                    calculations.AppendLine("Historial de Cálculos:");
+
+                    while (reader.Read())
+                    {
+                        // Formato: "Operación = Resultado (Fecha)"
+                        calculations.AppendLine($"{reader["Operacion"]} = {reader["Resultado"]} ({reader["Fecha"]})");
+                    }
+
+                    reader.Close();
+                    connection.Close();
+
+                    // Mostrar los cálculos en un MessageBox
+                    MessageBox.Show(calculations.ToString(), "Historial de Cálculos");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al obtener los cálculos: " + ex.Message);
+            }
+        }
+
     }
 }
 
