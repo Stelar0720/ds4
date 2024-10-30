@@ -29,21 +29,33 @@
         private void InitializeComponent()
         {
             listBox1 = new ListBox();
+            button1 = new Button();
             SuspendLayout();
             // 
             // listBox1
             // 
             listBox1.FormattingEnabled = true;
-            listBox1.Location = new Point(298, 131);
+            listBox1.Location = new Point(194, 118);
             listBox1.Name = "listBox1";
-            listBox1.Size = new Size(150, 104);
+            listBox1.Size = new Size(372, 244);
             listBox1.TabIndex = 0;
+            // 
+            // button1
+            // 
+            button1.Location = new Point(265, 49);
+            button1.Name = "button1";
+            button1.Size = new Size(219, 63);
+            button1.TabIndex = 1;
+            button1.Text = "Conectar y desconectar la base de datos";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button1);
             Controls.Add(listBox1);
             Name = "Form1";
             Text = "Form1";
@@ -53,5 +65,6 @@
         #endregion
 
         private ListBox listBox1;
+        private Button button1;
     }
 }
