@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio13\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53D28585-6781-4E85-AA08-8D0E2552409F}|Laboratorio13.csproj|c:\\users\\jackc\\source\\repos\\ds4\\laboratorio13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{53D28585-6781-4E85-AA08-8D0E2552409F}|Laboratorio13.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{53D28585-6781-4E85-AA08-8D0E2552409F}|Laboratorio13.csproj|c:\\users\\jackc\\source\\repos\\ds4\\laboratorio13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53D28585-6781-4E85-AA08-8D0E2552409F}|Laboratorio13.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53D28585-6781-4E85-AA08-8D0E2552409F}|Laboratorio13.csproj|c:\\users\\jackc\\source\\repos\\ds4\\laboratorio13\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53D28585-6781-4E85-AA08-8D0E2552409F}|Laboratorio13.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D28585-6781-4E85-AA08-8D0E2552409F}|Laboratorio13.csproj|c:\\users\\jackc\\source\\repos\\ds4\\laboratorio13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53D28585-6781-4E85-AA08-8D0E2552409F}|Laboratorio13.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,33 +30,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio13\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
               "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio13\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAkwCgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwCgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T18:47:57.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio13\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio13\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABsAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T00:33:52.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio13\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
