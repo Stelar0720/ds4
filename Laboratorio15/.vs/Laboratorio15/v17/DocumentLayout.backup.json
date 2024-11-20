@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jackc\\source\\repos\\ds4\\Laboratorio15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76A834B1-F4D1-4678-A025-D53B009C893F}|..\\lab152\\lab152.csproj|c:\\users\\jackc\\source\\repos\\ds4\\lab152\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jackc\\source\\repos\\ds4\\lab152\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lab152\\Program.cs",
+              "ToolTip": "C:\\Users\\jackc\\source\\repos\\ds4\\lab152\\Program.cs",
+              "RelativeToolTip": "..\\lab152\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T23:37:14.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
