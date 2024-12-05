@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="Semestral.SiteMaster" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Aplicación de Riego</title>
+    <link href="Content/styles.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" href="Images/pino.png" type="image/x-icon" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <!-- Header común para todas las páginas -->
+        <div class="header">
+            <h1>Bienvenido al Sistema de Riego</h1>
+            <nav>
+                <ul>
+                    <li><a href="Default.aspx">Inicio</a></li> <!-- Añadido el enlace a Default.aspx -->
+                    <li><a href="Usuarios.aspx">Usuarios</a></li>
+                    <li><a href="Riego.aspx">Riego</a></li>
+                    <li><a href="ProximosRiegos.aspx">Próximos Riegos</a></li>
+                    <li><a href="TiposPlanta.aspx">Tipos de Planta</a></li>
+                </ul>
+            </nav>
+        </div>
+        
+        <!-- Contenido de las páginas específicas -->
+        <div class="content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <!-- Footer común para todas las páginas -->
+        <footer class="footer">
+            <p>&copy; 2024 Jack Garcia. ¡Este sitio está hecho con amor y algunas líneas de código! 🌱</p>
+        </footer>
+    </form>
+</body>
+</html>
+
+
+
+
+

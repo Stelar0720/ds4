@@ -1,0 +1,165 @@
+﻿/* Color base */
+:root {
+    --main-color: #0083cf;
+    --dark-color: #006ba1;
+    --light-color: #66a9d1;
+    --lightest-color: #99c2e0;
+    --darkest-color: #005085;
+}
+
+/* General body styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f7f6;
+    color: #333;
+}
+
+/* Título principal en color base */
+.welcome-title {
+    color: #0083cf;
+    font-size: 2.5em; /* Tamaño de fuente más grande */
+    font-weight: bold;
+}
+
+/* Para títulos secundarios */
+.secondary-title {
+    color: #006fa6; /* Un tono más oscuro del color base */
+    font-size: 2em;
+    font-weight: bold;
+}
+
+/* Header Styles */
+.header {
+    background-color: var(--main-color);
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+    .header h1 {
+        font-size: 2.5rem;
+        margin: 0;
+    }
+
+/* Navigation styles */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 10px 0;
+    text-align: center;
+}
+
+    nav ul li {
+        display: inline-block;
+        margin-right: 20px;
+    }
+
+        nav ul li a {
+            text-decoration: none;
+            color: white;
+            font-size: 1.1rem;
+            padding: 10px 15px;
+            background-color: var(--dark-color);
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+            nav ul li a:hover {
+                background-color: var(--light-color);
+            }
+
+/* Content Styles */
+.content {
+    padding: 40px;
+    background-color: white;
+}
+
+h2 {
+    font-size: 2rem;
+    color: var(--main-color);
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 1.5rem;
+    color: var(--dark-color);
+}
+
+/* Buttons */
+.btn {
+    display: inline-block;
+    background-color: var(--main-color);
+    color: white;
+    font-size: 1rem;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+    .btn:hover {
+        background-color: var(--dark-color);
+    }
+
+/* Form elements */
+input[type="text"], input[type="email"], select, textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    font-size: 1rem;
+}
+
+/* Grid and Tables */
+.grid-view {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+    .grid-view th, .grid-view td {
+        border: 1px solid #ddd;
+        padding: 10px;
+        text-align: left;
+    }
+
+    .grid-view th {
+        background-color: var(--dark-color);
+        color: white;
+    }
+
+    .grid-view tr:nth-child(even) {
+        background-color: var(--lightest-color);
+    }
+
+/* Footer Styles (Optional) */
+footer {
+    background-color: var(--main-color);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Estilos para el footer */
+.footer {
+    background-color: #0083cf; /* Usamos el mismo color de la paleta */
+    color: #ffffff; /* Texto blanco */
+    text-align: center;
+    padding: 10px 0;
+    font-size: 14px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+}
+
+    .footer p {
+        margin: 0;
+    }
